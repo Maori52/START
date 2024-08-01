@@ -1,2 +1,6 @@
  книга по git:
+<<<<<<< HEAD
 https://git-scm.com/book/ru/v2/678967896789
+=======
+https://git-scm.com/book/ru/v2/123123123123
+>>>>>>> testing
